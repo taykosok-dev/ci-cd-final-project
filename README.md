@@ -1,6 +1,6 @@
 # CI/CD Tools and Practices Final Project Template
 
-This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
+This repository contains the template to be used for the Final Project ci-cd-final-project for the Coursera course **CI/CD Tools and Practices**.
 
 ## Usage
 
