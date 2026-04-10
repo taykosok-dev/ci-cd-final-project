@@ -1,0 +1,19 @@
+name: {name of workflow}
+
+on:
+  push:
+    branches: {array of branches}
+  pull_request:
+    branches: {array of branches}
+
+jobs:
+  build:
+    runs-on: {placeholder}
+    container: {placeholder}
+    steps:
+      - name: {placeholder}
+        uses: {placeholder}
+	  - name: {placeholder}
+		run: |
+		{first command}
+		{second command}
