@@ -25,7 +25,7 @@ exit
 ```
 
 ## Tasks
-
+Project name - ci-cd-final-project
 
 ## License
 
